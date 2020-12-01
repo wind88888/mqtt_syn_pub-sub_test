@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libpaho-mqtt3cs.so -o libpaho-mqtt3cs.so CMakeFiles/paho-mqtt3cs.dir/MQTTClient.c.o CMakeFiles/paho-mqtt3cs.dir/SSLSocket.c.o 

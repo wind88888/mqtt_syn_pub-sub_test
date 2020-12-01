@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libpaho-mqtt3c.so -o libpaho-mqtt3c.so CMakeFiles/paho-mqtt3c.dir/MQTTClient.c.o 
