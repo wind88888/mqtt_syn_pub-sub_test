@@ -12,12 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2deb32d-2fd8-4f59-82c1-4bac83c520ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../original/paho.mqtt.c" beforeDir="false" afterPath="$PROJECT_DIR$/../original/paho.mqtt.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paho.mqtt.c" beforeDir="false" afterPath="$PROJECT_DIR$/../paho.mqtt.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f2deb32d-2fd8-4f59-82c1-4bac83c520ad" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/MQTT_PUBLISH.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
               <folding>
                 <element signature="e#707#725#0" expanded="true" />
               </folding>
@@ -258,12 +253,12 @@
       <updated>1606396088723</updated>
       <workItem from="1606396089939" duration="3878000" />
       <workItem from="1606698185472" duration="11189000" />
-      <workItem from="1607225695325" duration="1378000" />
+      <workItem from="1607225695325" duration="1973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16445000" />
+    <option name="totallyTimeSpent" value="17040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="530" y="137" width="768" height="620" extended-state="1" />
@@ -352,7 +347,7 @@
     <entry file="file://$PROJECT_DIR$/src/MQTT_PUBLISH.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
             <element signature="e#707#725#0" expanded="true" />
           </folding>
